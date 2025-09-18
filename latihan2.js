@@ -1,5 +1,6 @@
+
 function cetakNama(nama){
-    return `Halo, nama saya ${nama}`
+    return `Halo, nama saya ${nama}`;
 }
 const PI = 3.14;
 
